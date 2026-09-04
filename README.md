@@ -2,12 +2,10 @@
 Hello, World! 👋. This is <strong>My first HTML projet.</strong> It is a Mini Taco Restraunt landing page showing crucial information about their restraunt. <em>This includes their menu , restraunt's timing, address and a Contact us form.</em>
 
 - The Contact Us form uses "post" method for form submission, as "get" method's url contain the input of the user.
-which may be <strong>sensitive.</strong> 
+which may be <strong>sensitive.</strong>
 
-<a href="https://yashjaiswal2019.github.io/First-HTML-Project/">
-  <span style="font-size: 24px;">🔗 Checkout this Webpage Live</span>
-</a>
+- form doesn't have backend server to process the request, it will redirect to a Webpage how it is recieved on server side.
 
-<br>
+### [🔗 Checkout this Webpage Live](https://yashjaiswal2019.github.io/First-HTML-Project/)
 
-<strong>Author - Yash Jayasaval</strong>
+### Author - Yash Jayasaval 😊
